@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>D&D Random Tables</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header>
+    <h1>D&D Random Tables</h1>
+    <p>Pick a table and roll.</p>
+  </header>
+
+  <main>
+    <section class="controls">
+      <label for="tableSelect">Table</label>
+      <select id="tableSelect"></select>
+      <button id="rollBtn">Roll</button>
+    </section>
+
+    <section class="result">
+      <h2 id="tableName">—</h2>
+      <div id="rollInfo" class="muted"></div>
+      <div id="output" class="output">Choose a table to begin.</div>
+      <button id="copyBtn" class="secondary">Copy Result</button>
+    </section>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>

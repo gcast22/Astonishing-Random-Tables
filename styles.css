@@ -1,0 +1,9 @@
+body { font-family: system-ui, sans-serif; margin: 24px; max-width: 900px; }
+header { margin-bottom: 20px; }
+.controls { display: flex; gap: 10px; align-items: end; flex-wrap: wrap; }
+label { display: block; font-size: 0.9rem; }
+select, button { padding: 10px 12px; font-size: 1rem; }
+.result { margin-top: 20px; padding: 16px; border: 1px solid #ddd; border-radius: 10px; }
+.output { margin-top: 12px; font-size: 1.2rem; line-height: 1.5; }
+.muted { color: #666; margin-top: 6px; }
+.secondary { margin-top: 12px; }
