@@ -1,0 +1,86 @@
+{
+  "name": "8th-Level Spell Scrolls",
+  "dice": "1d20",
+  "entries": [
+    {
+      "min": 1,
+      "max": 2,
+      "text": "Glibness"
+    },
+    {
+      "min": 3,
+      "max": 4,
+      "text": "Animal shapes"
+    },
+    {
+      "min": 5,
+      "max": 6,
+      "text": "Clone"
+    },
+    {
+      "min": 7,
+      "max": 8,
+      "text": "Power word stun"
+    },
+    {
+      "min": 9,
+      "max": 9,
+      "text": "Feeblemind"
+    },
+    {
+      "min": 10,
+      "max": 10,
+      "text": "Incendiary cloud"
+    },
+    {
+      "min": 11,
+      "max": 11,
+      "text": "Mind blank"
+    },
+    {
+      "min": 12,
+      "max": 12,
+      "text": "Earthquake"
+    },
+    {
+      "min": 13,
+      "max": 13,
+      "text": "Antipathy/sympathy"
+    },
+    {
+      "min": 14,
+      "max": 14,
+      "text": "Demiplane"
+    },
+    {
+      "min": 15,
+      "max": 15,
+      "text": "Control weather"
+    },
+    {
+      "min": 16,
+      "max": 16,
+      "text": "Antimagic field"
+    },
+    {
+      "min": 17,
+      "max": 17,
+      "text": "Maze"
+    },
+    {
+      "min": 18,
+      "max": 18,
+      "text": "Holy aura"
+    },
+    {
+      "min": 19,
+      "max": 19,
+      "text": "Dominate monster"
+    },
+    {
+      "min": 20,
+      "max": 20,
+      "text": "Sunburst"
+    }
+  ]
+}

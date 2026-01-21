@@ -1,0 +1,251 @@
+{
+  "name": "1st-Level Spell Scrolls",
+  "dice": "1d100",
+  "entries": [
+    {
+      "min": 1,
+      "max": 2,
+      "text": "Sleep"
+    },
+    {
+      "min": 3,
+      "max": 4,
+      "text": "Disguise self"
+    },
+    {
+      "min": 5,
+      "max": 6,
+      "text": "Unseen servant"
+    },
+    {
+      "min": 7,
+      "max": 8,
+      "text": "Bane"
+    },
+    {
+      "min": 9,
+      "max": 10,
+      "text": "Cure wounds"
+    },
+    {
+      "min": 11,
+      "max": 12,
+      "text": "Hideous laughter"
+    },
+    {
+      "min": 13,
+      "max": 14,
+      "text": "Animal friendship"
+    },
+    {
+      "min": 15,
+      "max": 16,
+      "text": "Comprehend languages"
+    },
+    {
+      "min": 17,
+      "max": 18,
+      "text": "Faerie fire"
+    },
+    {
+      "min": 19,
+      "max": 20,
+      "text": "Shield of faith"
+    },
+    {
+      "min": 21,
+      "max": 22,
+      "text": "Charm person"
+    },
+    {
+      "min": 23,
+      "max": 24,
+      "text": "Guiding bolt"
+    },
+    {
+      "min": 25,
+      "max": 26,
+      "text": "Bless"
+    },
+    {
+      "min": 27,
+      "max": 28,
+      "text": "Detect magic"
+    },
+    {
+      "min": 29,
+      "max": 30,
+      "text": "Inflict wounds"
+    },
+    {
+      "min": 31,
+      "max": 32,
+      "text": "Color spray"
+    },
+    {
+      "min": 33,
+      "max": 34,
+      "text": "Healing word"
+    },
+    {
+      "min": 35,
+      "max": 36,
+      "text": "Purify food and drink"
+    },
+    {
+      "min": 37,
+      "max": 38,
+      "text": "Identify"
+    },
+    {
+      "min": 39,
+      "max": 40,
+      "text": "Detect poison and disease"
+    },
+    {
+      "min": 41,
+      "max": 42,
+      "text": "Silent Image"
+    },
+    {
+      "min": 43,
+      "max": 44,
+      "text": "Featherfall"
+    },
+    {
+      "min": 45,
+      "max": 46,
+      "text": "Create or destroy water"
+    },
+    {
+      "min": 47,
+      "max": 48,
+      "text": "Speak with animals"
+    },
+    {
+      "min": 49,
+      "max": 50,
+      "text": "Longstrider"
+    },
+    {
+      "min": 51,
+      "max": 52,
+      "text": "Goodberry"
+    },
+    {
+      "min": 53,
+      "max": 54,
+      "text": "Heroism"
+    },
+    {
+      "min": 55,
+      "max": 56,
+      "text": "Jump"
+    },
+    {
+      "min": 57,
+      "max": 58,
+      "text": "Floating disk"
+    },
+    {
+      "min": 59,
+      "max": 60,
+      "text": "Command"
+    },
+    {
+      "min": 61,
+      "max": 62,
+      "text": "Entangle"
+    },
+    {
+      "min": 63,
+      "max": 64,
+      "text": "Illusory script"
+    },
+    {
+      "min": 65,
+      "max": 66,
+      "text": "Divine favor"
+    },
+    {
+      "min": 67,
+      "max": 68,
+      "text": "Fog cloud"
+    },
+    {
+      "min": 69,
+      "max": 70,
+      "text": "Detect evil and good"
+    },
+    {
+      "min": 71,
+      "max": 72,
+      "text": "Expeditious retreat"
+    },
+    {
+      "min": 73,
+      "max": 74,
+      "text": "Thunderwave"
+    },
+    {
+      "min": 75,
+      "max": 76,
+      "text": "Alarm"
+    },
+    {
+      "min": 77,
+      "max": 78,
+      "text": "Find familiar"
+    },
+    {
+      "min": 79,
+      "max": 80,
+      "text": "Shield"
+    },
+    {
+      "min": 81,
+      "max": 82,
+      "text": "Grease"
+    },
+    {
+      "min": 83,
+      "max": 84,
+      "text": "Hellish rebuke"
+    },
+    {
+      "min": 85,
+      "max": 86,
+      "text": "Burning hands"
+    },
+    {
+      "min": 87,
+      "max": 88,
+      "text": "Sanctuary"
+    },
+    {
+      "min": 89,
+      "max": 90,
+      "text": "Mage armor"
+    },
+    {
+      "min": 91,
+      "max": 92,
+      "text": "False life"
+    },
+    {
+      "min": 93,
+      "max": 94,
+      "text": "Hunter's mark"
+    },
+    {
+      "min": 95,
+      "max": 97,
+      "text": "Protection from evil and good"
+    },
+    {
+      "min": 98,
+      "max": 100,
+      "text": "Magic missile"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "name": "Transmuted Damage Types",
+  "dice": "1d20",
+  "entries": [
+    {
+      "min": 1,
+      "max": 2,
+      "text": "...piercing"
+    },
+    {
+      "min": 3,
+      "max": 4,
+      "text": "...slashing"
+    },
+    {
+      "min": 5,
+      "max": 6,
+      "text": "...bludgeoning"
+    },
+    {
+      "min": 7,
+      "max": 8,
+      "text": "...fire"
+    },
+    {
+      "min": 9,
+      "max": 10,
+      "text": "...cold"
+    },
+    {
+      "min": 11,
+      "max": 12,
+      "text": "...poison"
+    },
+    {
+      "min": 13,
+      "max": 14,
+      "text": "...lightning"
+    },
+    {
+      "min": 15,
+      "max": 15,
+      "text": "...thunder"
+    },
+    {
+      "min": 16,
+      "max": 16,
+      "text": "...acid"
+    },
+    {
+      "min": 17,
+      "max": 17,
+      "text": "...radiant"
+    },
+    {
+      "min": 18,
+      "max": 18,
+      "text": "...necrotic"
+    },
+    {
+      "min": 19,
+      "max": 19,
+      "text": "...psychic"
+    },
+    {
+      "min": 20,
+      "max": 20,
+      "text": "...force"
+    }
+  ]
+}
