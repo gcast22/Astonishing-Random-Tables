@@ -1,0 +1,126 @@
+{
+  "name": "Cantrip Level Scrolls",
+  "dice": "1d100",
+  "entries": [
+    {
+      "min": 1,
+      "max": 5,
+      "text": "Dancing lights"
+    },
+    {
+      "min": 6,
+      "max": 10,
+      "text": "True strike"
+    },
+    {
+      "min": 11,
+      "max": 15,
+      "text": "Light"
+    },
+    {
+      "min": 16,
+      "max": 20,
+      "text": "Guidence"
+    },
+    {
+      "min": 21,
+      "max": 25,
+      "text": "Mage hand"
+    },
+    {
+      "min": 26,
+      "max": 30,
+      "text": "Poison spray"
+    },
+    {
+      "min": 31,
+      "max": 35,
+      "text": "Message"
+    },
+    {
+      "min": 36,
+      "max": 40,
+      "text": "Spare the dying"
+    },
+    {
+      "min": 41,
+      "max": 45,
+      "text": "Mending"
+    },
+    {
+      "min": 46,
+      "max": 50,
+      "text": "Prestidigitation"
+    },
+    {
+      "min": 51,
+      "max": 55,
+      "text": "Acid splash"
+    },
+    {
+      "min": 56,
+      "max": 60,
+      "text": "Minor illusion"
+    },
+    {
+      "min": 61,
+      "max": 65,
+      "text": "Thaumaturgy"
+    },
+    {
+      "min": 66,
+      "max": 70,
+      "text": "Fire bolt"
+    },
+    {
+      "min": 71,
+      "max": 75,
+      "text": "Resistance"
+    },
+    {
+      "min": 76,
+      "max": 80,
+      "text": "Eldritch blast"
+    },
+    {
+      "min": 81,
+      "max": 85,
+      "text": "Sacred flame"
+    },
+    {
+      "min": 86,
+      "max": 90,
+      "text": "Produce flame"
+    },
+    {
+      "min": 91,
+      "max": 95,
+      "text": "Vicious mockery"
+    },
+    {
+      "min": 96,
+      "max": 96,
+      "text": "Ray of frost"
+    },
+    {
+      "min": 97,
+      "max": 97,
+      "text": "Shillelagh"
+    },
+    {
+      "min": 98,
+      "max": 98,
+      "text": "Chill touch"
+    },
+    {
+      "min": 99,
+      "max": 99,
+      "text": "Druid craft"
+    },
+    {
+      "min": 100,
+      "max": 100,
+      "text": "Shocking grasp"
+    }
+  ]
+}

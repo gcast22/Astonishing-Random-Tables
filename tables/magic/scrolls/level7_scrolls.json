@@ -1,0 +1,106 @@
+{
+  "name": "7th-Level Spell Scrolls",
+  "dice": "1d20",
+  "entries": [
+    {
+      "min": 1,
+      "max": 1,
+      "text": "Regenerate"
+    },
+    {
+      "min": 2,
+      "max": 2,
+      "text": "Delayed blast fireball"
+    },
+    {
+      "min": 3,
+      "max": 3,
+      "text": "Forcecage"
+    },
+    {
+      "min": 4,
+      "max": 4,
+      "text": "Reverse gravity"
+    },
+    {
+      "min": 5,
+      "max": 5,
+      "text": "Mirage arcane"
+    },
+    {
+      "min": 6,
+      "max": 6,
+      "text": "Finger of death"
+    },
+    {
+      "min": 7,
+      "max": 7,
+      "text": "Etheralness"
+    },
+    {
+      "min": 8,
+      "max": 8,
+      "text": "Prismatic spray"
+    },
+    {
+      "min": 9,
+      "max": 9,
+      "text": "Magnificent mansion"
+    },
+    {
+      "min": 10,
+      "max": 10,
+      "text": "Conjure celestial"
+    },
+    {
+      "min": 11,
+      "max": 11,
+      "text": "Project image"
+    },
+    {
+      "min": 12,
+      "max": 12,
+      "text": "Sequester"
+    },
+    {
+      "min": 13,
+      "max": 13,
+      "text": "Arcane sword"
+    },
+    {
+      "min": 14,
+      "max": 14,
+      "text": "Plane shift"
+    },
+    {
+      "min": 15,
+      "max": 15,
+      "text": "Simulacrum"
+    },
+    {
+      "min": 16,
+      "max": 16,
+      "text": "Resurrection"
+    },
+    {
+      "min": 17,
+      "max": 17,
+      "text": "Teleport"
+    },
+    {
+      "min": 18,
+      "max": 18,
+      "text": "Symbol"
+    },
+    {
+      "min": 19,
+      "max": 19,
+      "text": "Fire storm"
+    },
+    {
+      "min": 20,
+      "max": 20,
+      "text": "Divine word"
+    }
+  ]
+}

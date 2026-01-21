@@ -1,0 +1,191 @@
+{
+  "name": "5th-Level Spell Scrolls",
+  "dice": "1d100",
+  "entries": [
+    {
+      "min": 1,
+      "max": 4,
+      "text": "Hallow"
+    },
+    {
+      "min": 5,
+      "max": 8,
+      "text": "Contact other plane"
+    },
+    {
+      "min": 9,
+      "max": 12,
+      "text": "Seeming"
+    },
+    {
+      "min": 13,
+      "max": 16,
+      "text": "Dream"
+    },
+    {
+      "min": 17,
+      "max": 20,
+      "text": "Scrying"
+    },
+    {
+      "min": 21,
+      "max": 24,
+      "text": "Awaken"
+    },
+    {
+      "min": 25,
+      "max": 28,
+      "text": "Legend lore"
+    },
+    {
+      "min": 29,
+      "max": 32,
+      "text": "Modify memory"
+    },
+    {
+      "min": 33,
+      "max": 36,
+      "text": "Geas"
+    },
+    {
+      "min": 37,
+      "max": 40,
+      "text": "Raise dead"
+    },
+    {
+      "min": 41,
+      "max": 44,
+      "text": "Animate objects"
+    },
+    {
+      "min": 45,
+      "max": 48,
+      "text": "Commune with nature"
+    },
+    {
+      "min": 49,
+      "max": 52,
+      "text": "Hold monster"
+    },
+    {
+      "min": 53,
+      "max": 56,
+      "text": "Cloudkill"
+    },
+    {
+      "min": 57,
+      "max": 60,
+      "text": "Insect plague"
+    },
+    {
+      "min": 61,
+      "max": 64,
+      "text": "Mass cure wounds"
+    },
+    {
+      "min": 65,
+      "max": 68,
+      "text": "Planar binding"
+    },
+    {
+      "min": 69,
+      "max": 72,
+      "text": "Creation"
+    },
+    {
+      "min": 73,
+      "max": 76,
+      "text": "Teleportation circle"
+    },
+    {
+      "min": 77,
+      "max": 80,
+      "text": "Mislead"
+    },
+    {
+      "min": 81,
+      "max": 84,
+      "text": "Cone of cold"
+    },
+    {
+      "min": 85,
+      "max": 85,
+      "text": "Dispel evil and good"
+    },
+    {
+      "min": 86,
+      "max": 86,
+      "text": "Telekinesis"
+    },
+    {
+      "min": 87,
+      "max": 87,
+      "text": "Commune with nature"
+    },
+    {
+      "min": 88,
+      "max": 88,
+      "text": "Antilife shell"
+    },
+    {
+      "min": 89,
+      "max": 89,
+      "text": "Reincarnate"
+    },
+    {
+      "min": 90,
+      "max": 90,
+      "text": "Dominate person"
+    },
+    {
+      "min": 91,
+      "max": 91,
+      "text": "Greater restoration"
+    },
+    {
+      "min": 92,
+      "max": 92,
+      "text": "Wall of stone"
+    },
+    {
+      "min": 93,
+      "max": 93,
+      "text": "Arcane hand"
+    },
+    {
+      "min": 94,
+      "max": 94,
+      "text": "Tree stride"
+    },
+    {
+      "min": 95,
+      "max": 95,
+      "text": "Contagion"
+    },
+    {
+      "min": 96,
+      "max": 96,
+      "text": "Passwall"
+    },
+    {
+      "min": 97,
+      "max": 97,
+      "text": "Telepathic bond"
+    },
+    {
+      "min": 98,
+      "max": 98,
+      "text": "Wall of force"
+    },
+    {
+      "min": 99,
+      "max": 99,
+      "text": "Flame strike"
+    },
+    {
+      "min": 100,
+      "max": 100,
+      "text": "Conjure elemental"
+    }
+  ]
+}

@@ -1,9 +1,49 @@
-body { font-family: system-ui, sans-serif; margin: 24px; max-width: 900px; }
-header { margin-bottom: 20px; }
-.controls { display: flex; gap: 10px; align-items: end; flex-wrap: wrap; }
-label { display: block; font-size: 0.9rem; }
-select, button { padding: 10px 12px; font-size: 1rem; }
-.result { margin-top: 20px; padding: 16px; border: 1px solid #ddd; border-radius: 10px; }
-.output { margin-top: 12px; font-size: 1.2rem; line-height: 1.5; }
+/* Minimal, readable defaults */
+:root { color-scheme: light; }
+* { box-sizing: border-box; }
+body { font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif; margin: 24px; max-width: 980px; }
+header { margin-bottom: 18px; }
+h1 { margin: 0 0 6px; }
+p { margin: 0; }
+main { margin-top: 18px; }
+
+.controls { display: flex; gap: 12px; align-items: end; flex-wrap: wrap; }
+.field { display: flex; flex-direction: column; gap: 6px; }
+label { font-size: 0.9rem; color: #222; }
+
+select, button {
+  padding: 10px 12px;
+  font-size: 1rem;
+  border-radius: 10px;
+  border: 1px solid #cfcfcf;
+  background: #fff;
+}
+
+button { cursor: pointer; }
+button:hover { filter: brightness(0.98); }
+button:active { transform: translateY(1px); }
+
+.result {
+  margin-top: 18px;
+  padding: 16px;
+  border: 1px solid #ddd;
+  border-radius: 14px;
+}
+
+.output {
+  margin-top: 12px;
+  font-size: 1.2rem;
+  line-height: 1.55;
+  padding: 12px;
+  border-radius: 12px;
+  border: 1px dashed #d7d7d7;
+  background: #fafafa;
+  white-space: pre-wrap;
+}
+
+.actions { margin-top: 12px; display: flex; gap: 10px; flex-wrap: wrap; }
+.secondary { background: #f6f6f6; }
+
 .muted { color: #666; margin-top: 6px; }
-.secondary { margin-top: 12px; }
+.footer { margin-top: 18px; }
+code { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 0.95em; }

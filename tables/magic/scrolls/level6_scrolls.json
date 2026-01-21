@@ -1,0 +1,161 @@
+{
+  "name": "6th-Level Spell Scrolls",
+  "dice": "1d100",
+  "entries": [
+    {
+      "min": 1,
+      "max": 4,
+      "text": "True seeing"
+    },
+    {
+      "min": 5,
+      "max": 8,
+      "text": "Guards and wards"
+    },
+    {
+      "min": 9,
+      "max": 12,
+      "text": "Eyebite"
+    },
+    {
+      "min": 13,
+      "max": 16,
+      "text": "Instant summons"
+    },
+    {
+      "min": 17,
+      "max": 20,
+      "text": "Mass suggestion"
+    },
+    {
+      "min": 21,
+      "max": 24,
+      "text": "Irresistible dance"
+    },
+    {
+      "min": 25,
+      "max": 28,
+      "text": "Conjure fey"
+    },
+    {
+      "min": 29,
+      "max": 32,
+      "text": "Programmed illusion"
+    },
+    {
+      "min": 33,
+      "max": 36,
+      "text": "Harm"
+    },
+    {
+      "min": 37,
+      "max": 40,
+      "text": "Sunbeam"
+    },
+    {
+      "min": 41,
+      "max": 44,
+      "text": "Find the path"
+    },
+    {
+      "min": 45,
+      "max": 48,
+      "text": "Circle of death"
+    },
+    {
+      "min": 49,
+      "max": 52,
+      "text": "Planar ally"
+    },
+    {
+      "min": 53,
+      "max": 56,
+      "text": "Move earth"
+    },
+    {
+      "min": 57,
+      "max": 60,
+      "text": "Wind walk"
+    },
+    {
+      "min": 61,
+      "max": 64,
+      "text": "Forbiddance"
+    },
+    {
+      "min": 65,
+      "max": 68,
+      "text": "Wall of thorns"
+    },
+    {
+      "min": 69,
+      "max": 72,
+      "text": "Globe of invulnerability"
+    },
+    {
+      "min": 73,
+      "max": 76,
+      "text": "Flesh to stone"
+    },
+    {
+      "min": 77,
+      "max": 80,
+      "text": "Blade barrier"
+    },
+    {
+      "min": 81,
+      "max": 84,
+      "text": "Transport via plants"
+    },
+    {
+      "min": 85,
+      "max": 88,
+      "text": "Contingency"
+    },
+    {
+      "min": 89,
+      "max": 92,
+      "text": "Freezing sphere"
+    },
+    {
+      "min": 93,
+      "max": 93,
+      "text": "Heal"
+    },
+    {
+      "min": 94,
+      "max": 94,
+      "text": "Chain lightning"
+    },
+    {
+      "min": 95,
+      "max": 95,
+      "text": "Magic jar"
+    },
+    {
+      "min": 96,
+      "max": 96,
+      "text": "Wall of ice"
+    },
+    {
+      "min": 97,
+      "max": 97,
+      "text": "Create undead"
+    },
+    {
+      "min": 98,
+      "max": 98,
+      "text": "Heroes' feast"
+    },
+    {
+      "min": 99,
+      "max": 99,
+      "text": "Disintegrate"
+    },
+    {
+      "min": 100,
+      "max": 100,
+      "text": "Word of recall"
+    }
+  ]
+}
